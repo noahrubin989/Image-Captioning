@@ -18,21 +18,18 @@ AI_SERVICE_KEY=your-azure-computer-vision-key-here
 
 **2. Prepare Your Images**
 
-Place all the images you want to caption inside the ./images folder.
-
-Supported file types by default are `.jpg`, `.jpeg`, and `.png`.
+* Place all the images you want to caption inside the ./images folder.
+* Supported file types by default are `.jpg`, `.jpeg`, and `.png`.
 
 **3. Run the Script**
 
-Use snippet below to run the script:
-
-`python3 caption_images.py`
+* Use snippet below to run the script:
+  `python3 caption_images.py`
 
 **4. View Captions**
 
-The script will iterate over each image in the ./images folder.
-
-For each image, it will print out the caption and confidence score to the console.
+* The script will iterate over each image in the ./images folder.
+* For each image, it will print out the caption and confidence score to the console.
 
 ## Example output
 
