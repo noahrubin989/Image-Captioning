@@ -44,6 +44,7 @@ Suppose there are three images in an `images` folder; 'street.jpg', 'person.jpg'
 
 **Confidence**: 0.46
 
+---
 
 **Image**: person.jpg
 
@@ -51,6 +52,7 @@ Suppose there are three images in an `images` folder; 'street.jpg', 'person.jpg'
 
 **Confidence**: 0.46
 
+---
 
 **Image**: building.jpg
 
