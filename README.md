@@ -33,7 +33,7 @@ AI_SERVICE_KEY=your_key
 
 ## Example output
 
-Suppose there are three images in an `images` folder; 'street.jpg', 'person.jpg', 'building.jpg'. The output would be as follows.
+Suppose there are three images in an `images` folder; 'street.jpg', 'person.jpg', 'building.jpg'. The output would be as follows:
 
 **Image**: street.jpg
 
