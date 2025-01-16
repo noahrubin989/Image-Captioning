@@ -28,7 +28,7 @@ AI_SERVICE_KEY=your_key
 
 **4. View Captions**
 
-* The script will iterate over each image in the ./images folder.
+* The script will iterate over each image in the `./images` folder.
 * For each image, it will print out the caption and confidence score to the console.
 
 ## Example output
