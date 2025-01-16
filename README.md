@@ -12,8 +12,8 @@ This script is beneficial for businesses that want to automatically generate des
 
 * Create a `.env` file in the root of your project with the following variables:
 ```
-AI_SERVICE_REGION=your-azure-region-here
-AI_SERVICE_KEY=your-azure-computer-vision-key-here
+AI_SERVICE_REGION=your_region
+AI_SERVICE_KEY=your_key
 ```
 
 **2. Prepare Your Images**
