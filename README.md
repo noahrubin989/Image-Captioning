@@ -36,7 +36,7 @@ For each image, it will print out the caption and confidence score to the consol
 
 ## Example output
 
-Suppose there are three images in an `images` folder; 'street.jpg', 'person.jpg', 'building.jpg'
+Suppose there are three images in an `images` folder; 'street.jpg', 'person.jpg', 'building.jpg'. The output would be as follows.
 
 **Image**: street.jpg
 
