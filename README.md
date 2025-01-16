@@ -23,7 +23,7 @@ AI_SERVICE_KEY=your_key
 
 **3. Run the Script**
 
-* Use snippet below to run the script:
+* Use the following snippet to run the script:
   `python3 caption_images.py`
 
 **4. View Captions**
